@@ -1,0 +1,17 @@
+{
+    "name": "Bar do Toninho",
+    "short_name": "Toninho Bar",
+    "description": "Sistema de Controle de Fiado e Caixa - Bar do Toninho",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f0f10",
+    "theme_color": "#f39c12",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/931/931949.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
